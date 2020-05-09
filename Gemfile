@@ -6,7 +6,7 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'minitest', '~> 5.0'
-gem 'rake', '~> 12.0'
+gem 'rake', '~> 12.3'
 gem 'rubocop'
 gem 'rubocop-rails'
 gem 'yard'

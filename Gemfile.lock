@@ -33,7 +33,7 @@ GEM
       ast (~> 2.4.0)
     rack (2.2.2)
     rainbow (3.0.0)
-    rake (12.3.2)
+    rake (12.3.3)
     rexml (3.2.4)
     rgeo (2.1.1)
     rgeo-activerecord (6.2.1)
@@ -67,7 +67,7 @@ PLATFORMS
 DEPENDENCIES
   minitest (~> 5.0)
   pg_serializer!
-  rake (~> 12.0)
+  rake (~> 12.3)
   rubocop
   rubocop-rails
   yard
